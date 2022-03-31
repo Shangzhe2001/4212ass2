@@ -1,0 +1,38 @@
+TABULAR DATA: DEEP LEARNING IS NOT ALL YOU NEED
+https://arxiv.org/pdf/2106.03253.pdf
+
+Original Papers:
+https://wandb.ai/sauravm/RTDL/reports/Revisiting-Deep-Learning-Models-for-Tabular-Data--VmlldzoxNDE1Njk0
+https://github.com/Yura52/rtdl
+
+Easy TabNet:
+https://towardsdatascience.com/tabnet-deep-neural-network-for-structured-tabular-data-39eb4b27a9e4
+https://github.com/dreamquark-ai/tabnet
+
+Easy 1-D CNN:
+https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
+
+Ref:
+https://zhuanlan.zhihu.com/p/364361806
+
+https://www.kaggle.com/code/lauriandwu/machine-learning-heart-disease-framingham
+
+dataset-preprocessing:
+https://www.kaggle.com/datasets/captainozlem/framingham-chd-preprocessed-data
+
+Original Dataset:
+https://github.com/GauravPadawe/Framingham-Heart-Study
+
+
+Extra Datsets: (May are multi-class classification)
+
+NFL Big Data Bowl
+https://www.kaggle.com/competitions/nfl-big-data-bowl-2020/data
+
+Stellar Classification Dataset - SDSS17 (Issue: Current accuracy too high)
+https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
+
+Music Genre Classification
+https://www.kaggle.com/datasets/purumalgi/music-genre-classification?select=train.csv
+(Current logistic regression acc is low: 0.5119)
+https://www.kaggle.com/code/sveneschlbeck/music-genre-prediction-using-logistic-regression

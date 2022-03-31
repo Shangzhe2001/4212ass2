@@ -1,0 +1,17 @@
+Variable,    Description
+SEX,         Gender (1 = male / 2 = female)
+TOTCHOL,     Serum total cholesterol (mg/dL)
+AGE,         Age at exam (years)
+SYSBP,       Systolic blood pressure (mmHg)
+DIABP,       Diastolic blood pressure (mmHg)
+CURSMOKE,    Current smoker (0 = no / 1 = yes)
+CIGPDAY,     Cigarettes per day
+BMI,         Body mass index (kg/m^2)
+DIABETES,    (0 = no / 1 = yes)
+BPMEDS,      Blood pressure meds (0 = no / 1 = yes)
+HEARTRTE,    Heart rate (beats per minute)
+GLUCOSE,     Serum Glucose (mg/dL)
+educ,        Education (1 = no high school / 2 = high school / 3 = some college / 4 = college degree
+HDLC,        HDL cholesterol (mg/dL)
+LDLC,        LDL cholesterol (mg/dL)
+ANYCHD,      Incidence of coronary heart disease (0 = no / 1 = yes)
